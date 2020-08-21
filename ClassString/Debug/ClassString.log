@@ -1,0 +1,10 @@
+﻿  Main.cpp
+  MyString.cpp
+e:\myprojectsforlearning\classstring\classstring\mystring.cpp(79): warning C4018: '<': signed/unsigned mismatch
+e:\myprojectsforlearning\classstring\classstring\mystring.cpp(83): warning C4018: '<': signed/unsigned mismatch
+e:\myprojectsforlearning\classstring\classstring\mystring.cpp(97): warning C4018: '<': signed/unsigned mismatch
+e:\myprojectsforlearning\classstring\classstring\mystring.cpp(101): warning C4018: '<': signed/unsigned mismatch
+e:\myprojectsforlearning\classstring\classstring\mystring.cpp(115): warning C4018: '<': signed/unsigned mismatch
+e:\myprojectsforlearning\classstring\classstring\mystring.cpp(119): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  ClassString.vcxproj -> E:\MyProjectsForLearning\ClassString\Debug\ClassString.exe
